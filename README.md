@@ -53,25 +53,25 @@ The company needs analytical insights to identify the factors influencing wareho
 # 🏗 Project Workflow
 
 ```text
-Raw Dataset
-      │
-      ▼
-Data Cleaning
- (Python)
-      │
-      ▼
+      Raw Dataset
+           │
+           ▼
+     Data Cleaning
+       (Python)
+           │
+           ▼
 Exploratory Data Analysis
-      (Excel)
-      │
-      ▼
-Interactive Dashboard
-    (Power BI)
-      │
-      ▼
-Business Insights
-      │
-      ▼
-Recommendations
+        (Excel)
+          │
+          ▼
+ Interactive Dashboard
+      (Power BI)
+         │
+         ▼
+   Business Insights
+         │
+         ▼
+   Recommendations
 ```
 
 ---
@@ -113,8 +113,7 @@ FMCG-Supply-Chain-Analysis/
 ├── Python/
 │   └── data_cleaning.ipynb
 │
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
@@ -125,25 +124,25 @@ The Power BI dashboard provides insights into warehouse operations through two i
 
 ## 📦 Page 1 – Warehouse Performance Overview
 
-- Shipment Volume by Warehouse
-- Shipment Distribution by Region
-- Warehouse Ranking
+- Top 10 Warehouses by Shipment Distribution
+- Shipment Distribution by Region & Zone
+- Shipment Distribution by Warehouse Capacity 
 - KPI Summary
-
-*(Insert dashboard screenshot)*
-
+  
+![Dashboard Page 1](Dashboard/Dashboard%20Page%201.png)
 ---
 
 ## 🚚 Page 2 – Operational & Infrastructure Analysis
 
 - Transportation Issues
-- Warehouse Capacity
+- Warehouse Breakdown
 - Temperature-Controlled Facilities
 - Distance from Hub
-- Retail Shops & Distributors
-
-*(Insert dashboard screenshot)*
-
+- Flood Proof
+- Elecric Supply
+- Storage Issue
+  
+![Dashboard Page 2](Dashboard/Dashboard%20Page%202.png)
 ---
 
 # 💡 Key Insights
