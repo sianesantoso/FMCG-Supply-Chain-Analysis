@@ -44,7 +44,7 @@ The company needs analytical insights to identify the factors influencing wareho
 
 # 🛠 Tools & Technologies
 
-- 🐍 Python (Pandas, NumPy)
+- 🐍 Python (Pandas, Matplotlib, Seaborn)
 - 📗 Microsoft Excel
 - 📊 Power BI
 
